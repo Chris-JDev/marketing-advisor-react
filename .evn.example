@@ -1,3 +1,0 @@
-# Copy this to .env and fill in your ngrok-exposed URL for your Ollama server
-REACT_APP_OLLAMA_BASE_URL=https://ef65-91-73-226-54.ngrok-free.app
-
